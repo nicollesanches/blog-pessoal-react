@@ -1,0 +1,18 @@
+.bemVindo{
+    background-color: #E6CCB2;
+}
+
+.postagens{
+    background-color: #EDE0D4;
+}
+
+.buttonPost{
+    background-color:#500d21ef!important;
+    color: aliceblue !important;
+    border: 2px solid #500d21ef !important;
+}
+
+.textoHome{
+    color:black;
+    font-weight: bold !important;
+}
