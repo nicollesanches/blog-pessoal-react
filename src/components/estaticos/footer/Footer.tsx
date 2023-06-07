@@ -41,7 +41,7 @@ export default function Footer() {
                             <Typography variant="subtitle2" align="center" gutterBottom style={{ color: "white" }} >© 2023 Copyright:</Typography>
                         </Box>
                         <Box>
-                            <a target="_blank" href="https://www.linkedin.com/in/amanda--costa/">
+                            <a target="_blank" href="https://www.linkedin.com/in/nicollesanchesribeiro/">
                                 <Typography variant="subtitle2" gutterBottom style={{ color: "white", textDecoration:"none" }} align="center">Nicolle Sanches</Typography>
                             </a>
                         </Box>
