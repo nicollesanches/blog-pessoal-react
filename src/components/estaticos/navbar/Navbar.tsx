@@ -8,7 +8,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { toast } from 'react-toastify';
 import { addToken } from '../../../store/token/Action';
 import { UserState } from '../../../store/token/Reducer';
-import logo from "../../../assets/images/gatinhologo.png.png";
+import logo from "../../../assets/images/logo.png.png"; 
 const AppNavbar: React.FC = () => {
     const dispatch = useDispatch();
     const token = useSelector<UserState, UserState["tokens"]>(
@@ -38,7 +38,7 @@ const AppNavbar: React.FC = () => {
             <Navbar collapseOnSelect expand="lg" className='nav' variant="dark">
                 
                 <Link to="/home" className="navbar-brand">
-                    <img src={logo} alt="Logo" width="120" height="45" /> {/* Imagem da logo */}
+                    <img src={logo} alt="Logo" width="130" height="80" /> {/* Imagem da logo */}
 
                 </Link>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />

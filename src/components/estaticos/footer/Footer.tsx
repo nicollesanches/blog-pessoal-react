@@ -28,7 +28,7 @@ export default function Footer() {
                             <a href="https://github.com/nicollesanches" target="_blank">
                                 <GitHubIcon style={{ fontSize: 30, color: "white" }} />
                             </a>
-                            <a href="" target="_blank">
+                            <a href="https://www.instagram.com/nicollesanches_/" target="_blank">
                                 <InstagramIcon style={{ fontSize: 30, color: "white" }} />
                             </a>
                             <a href="https://www.linkedin.com/in/nicollesanchesribeiro/" target="_blank">
