@@ -59,7 +59,6 @@ function App() {
           </Routes>
 
         </div>
-        <FloatingButton onClick={handleClick} />
         <Footer />
       </BrowserRouter>
       </Provider>
